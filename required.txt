@@ -1,0 +1,2 @@
+required dependencies: express, mongoose
+required database: Mongo DB
